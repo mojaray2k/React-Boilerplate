@@ -1,0 +1,27 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "description": "This is a general boilerplate for React applications",
+  "private": true,
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/react-boilerplate.git"
+  },
+  "author": "Amen Ra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/react-boilerplate#readme"
+}
